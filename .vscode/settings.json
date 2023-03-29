@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "time.h": "c",
+        "gdiplusgraphics.h": "c",
+        "stdlib.h": "c"
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/vcpkg/ports/blas"
+}
